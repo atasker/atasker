@@ -7,15 +7,8 @@ I'm currently a full-stack software engineer in Boston, MA :four_leaf_clover:. U
 
 ---
 
-<div>
-  <div style="display: inline-block;">
-    <ul>
-      <li>🔭&nbsp;&nbsp;&nbsp;I’m currently working on a healthcare startup.</li>
-      <li>🌱&nbsp;&nbsp;&nbsp;Learning micro-services, react and a bit of NLP.</li>
-      <li>📫&nbsp;&nbsp;&nbsp;Contact: atasker2@gmail.com, or book some time with me <a href="https://calendly.com/angus_t">here</a>.</li>
-    </ul>
-  </div>
-  <div style="display: inline-block;">
-    content
-  </div>
-</div>
+<ul>
+  <li>🔭&nbsp;&nbsp;&nbsp;I’m currently working on a healthcare startup.</li>
+  <li>🌱&nbsp;&nbsp;&nbsp;Learning micro-services, react and a bit of NLP.</li>
+  <li>📫&nbsp;&nbsp;&nbsp;Contact: atasker2@gmail.com, or book some time with me <a href="https://calendly.com/angus_t">here</a>.</li>
+</ul>

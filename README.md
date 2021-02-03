@@ -4,7 +4,7 @@
 
 I'm currently a full-stack software engineer in Cambridge, MA. Usually contributing over at Stack Overflow, and getting involved with local tech communities.
 
-![linkedIn](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![linkedIn](https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png "LinkedIn")
 
 <!--
 **atasker/atasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

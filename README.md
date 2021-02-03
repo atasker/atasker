@@ -9,14 +9,13 @@ I'm currently a full-stack software engineer in Boston, MA :four_leaf_clover:. U
 
 <div>
   <div style="display: inline-block;">
-    - 🔭 I’m currently working on a healthcare startup.
-    - 🌱 Learning micro-services, react and a bit of NLP.
-    - 👯 I’m looking to collaborate on ...
-    🤔 I’m looking for help with ...
-    💬 Ask me about ...
-    📫 How to reach me: ...
+    <ul>
+      <li>🔭&nbsp;&nbsp;&nbsp;I’m currently working on a healthcare startup.</li>
+      <li>🌱&nbsp;&nbsp;&nbsp;Learning micro-services, react and a bit of NLP.</li>
+      <li>📫&nbsp;&nbsp;&nbsp;Contact: atasker2@gmail.com, or book some time on my [Calendly](https://calendly.com/angus_t)</li>
     😄 Pronouns: ...
     ⚡ Fun fact: ...
+    </ul>
   </div>
   <div style="display: inline-block;">
     content

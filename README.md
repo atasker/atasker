@@ -12,3 +12,9 @@ I'm currently a full-stack software engineer in Boston, MA :four_leaf_clover:. U
   <li>🌱&nbsp;&nbsp;&nbsp;Learning micro-services, react and a bit of NLP.</li>
   <li>📫&nbsp;&nbsp;&nbsp;Contact: <a href="mailto:atasker2@gmail.com">Email</a>, or book some time with me <a href="https://calendly.com/angus_t">here</a>.</li>
 </ul>
+
+---
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=atasker&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atasker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

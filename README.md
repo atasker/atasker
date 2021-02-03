@@ -1,11 +1,13 @@
 ### Hi there 👋, I'm Angus
 
----
-
-I'm currently a full-stack software engineer in Cambridge, MA. Usually contributing over at Stack Overflow, and getting involved with local tech communities.
+I'm currently a full-stack software engineer in Boston, MA :four_leaf_clover:. Usually contributing over at Stack Overflow, and getting involved with local tech communities.
 
 <a href="https://linkedin.com/in/taskeraj"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" width="50" height="50" /></a>
 <a href="https://calendly.com/angus_t"><img src="https://podcastingresources.com/wp-content/uploads/2017/05/calendly-1.png" width="50" height="50" /></a>
+
+---
+
+
 
 <!--
 **atasker/atasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

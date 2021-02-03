@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Angus
+
+---
+
+Currently a full-stack software engineer in Cambridge, MA. Usually contributing over at Stack Overflow, and getting involved with local tech communities.
 
 <!--
 **atasker/atasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

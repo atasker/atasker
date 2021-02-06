@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Angus
+### Hi there 👋
 
 Currently a full-stack software engineer in Boston, MA :four_leaf_clover:. Usually contributing over at Stack Overflow, and getting involved with local tech communities.
 

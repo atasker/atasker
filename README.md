@@ -16,5 +16,3 @@ Currently a full-stack software engineer in Boston, MA :four_leaf_clover:. Usual
 ---
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=atasker&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atasker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
